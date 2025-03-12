@@ -1,0 +1,1 @@
+Tempo de execução para calcular pi com 100000 iterações: 0.05109524726867676 segundos.
